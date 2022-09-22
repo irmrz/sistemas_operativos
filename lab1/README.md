@@ -1,7 +1,12 @@
-Laboratorio 1 de Sistemas Operativos - Mybash
 
-Soporta:
-- Hasta 2 pipes, es decir 3 comandos simples
+# README #
 
-No Soporta:
-- Argumentos que contengan un espacio ~~ Strings
+Repositorio del Laboratorio #1 de la materia Sistemas Operativos
+
+Grupo N°30
+
+Integrantes:
+-Bruno Volpini
+-Ignacio Ramirez
+-Tomas Marmay
+-Kevin Prieto
